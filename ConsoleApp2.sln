@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2.csproj", "{92C1D761-8DA3-4A33-996E-EB678C177B4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DodawanieTest", "..\DodawanieTest\DodawanieTest.csproj", "{0812CB24-A127-4A25-AED3-868BD3AA163C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92C1D761-8DA3-4A33-996E-EB678C177B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C1D761-8DA3-4A33-996E-EB678C177B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C1D761-8DA3-4A33-996E-EB678C177B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C1D761-8DA3-4A33-996E-EB678C177B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0812CB24-A127-4A25-AED3-868BD3AA163C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0812CB24-A127-4A25-AED3-868BD3AA163C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0812CB24-A127-4A25-AED3-868BD3AA163C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0812CB24-A127-4A25-AED3-868BD3AA163C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF028489-75DF-46C7-9BED-4778EA0BA23C}
+	EndGlobalSection
+EndGlobal
